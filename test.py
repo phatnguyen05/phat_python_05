@@ -1,2 +1,0 @@
-print('doan xem')
-
